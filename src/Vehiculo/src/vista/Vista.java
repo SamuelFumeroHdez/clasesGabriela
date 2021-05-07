@@ -37,7 +37,7 @@ public class Vista {
                     mostrarDatos(this.controlador.listarVehiculos());
                     break;
                 case 2:
-                    /
+                    
                     introDatosVehiculo();
                     break;
                 case 3: 
